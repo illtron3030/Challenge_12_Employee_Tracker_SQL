@@ -3,7 +3,7 @@
 # Challenge_12_Employee_Tracker_SQL
 Node Inquirer app to view and manage the departments, roles, and employees in a company so that you can organize and plan your business.
 
-![SAMPLE](LINK HERE!)
+![SAMPLE](assets/images/screenshot.png)
 
 # Table of Contents 
 
@@ -17,16 +17,14 @@ Node Inquirer app to view and manage the departments, roles, and employees in a 
 * Node
 * npm
 * inquirer
-* console.table
-* SQL
-* MySQL Workbench
+* MySQL
 
 # Installation 
 
 From the command line change directory to where you cloned this repository to then type 'npm i', then to run it enter 'node employeeTracker.js'
 
 # Usage
-Check out my [video tutorial](link here) to see it running.
+Check out my [video tutorial](https://drive.google.com/file/d/19py3mz-mGpiBMoSpCJcP0W_KyAzuTbhJ/view?usp=sharing) to see it running.
 
 # Functionality
 * View All Departments
@@ -35,7 +33,7 @@ Check out my [video tutorial](link here) to see it running.
 * Add A Department
 * Add An Employee
 * Add A Role
-* Remove Employee
+* Update Employee Role
 
 # License
 MIT License
